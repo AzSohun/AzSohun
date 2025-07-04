@@ -10,7 +10,7 @@
 ## 📫 Reach Me At
 
 - 📧 Email: **asaduzzamansohun5@gmail.com**
-- 🌐 Facebook: [Asaduzzaman Sohun](https://www.facebook.com/profile.php?id=61561625807710)
+- 🌐 LinkedIn: [Asaduzzaman Sohun](https://www.linkedin.com/in/asaduzzaman-sohun/)
 
 ---
 
