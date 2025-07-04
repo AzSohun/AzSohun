@@ -59,7 +59,7 @@
   <br />
   <img src="https://github-readme-stats.vercel.app/api?username=sohun-cs&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohun-cs&layout=compact&theme=radical&langs_count=6" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohun-cs&layout=compact&theme=radical&langs_count=10" alt="Top Languages" />
   <br />
   <img src="https://komarev.com/ghpvc/?username=sohun-cs&style=flat-square" alt="Profile views" />
 </p>
