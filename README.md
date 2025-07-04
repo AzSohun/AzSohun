@@ -3,38 +3,7 @@
 </a>
 
 <h1 align="center">Hi 👋, I’m Asaduzzaman Sohun</h1>
-<h3 align="center">💻 Junior Front-End Developer | MERN Stack Enthusiast</h3>
-
-<p align="center">
-  I’m passionate about crafting responsive and interactive web applications using the MERN stack (MongoDB, Express.js, React, and Node.js). Currently, I’m deepening my knowledge in <strong>Next.js</strong>, <strong>TypeScript</strong>, <strong>Redux</strong>, and <strong>MySQL</strong>.
-</p>
-
----
-
-## 🚀 Featured Projects
-
-- 🔗 [**Easy Parcel**](https://github.com/AsaduzzamanSohun/easy-parcel-client) – A logistics & parcel management platform.
-- 🔗 [**Food Share**](https://github.com/AsaduzzamanSohun/foodshare) – A community-driven food sharing web app.
-- 🔗 [**Artful**](https://github.com/AsaduzzamanSohun/artful-client) – A virtual art gallery and e-commerce platform.
-
----
-
-## 🌱 Currently Learning
-
-- ⚛️ Advanced React Patterns
-- 🔁 Redux & State Management
-- ⏩ Next.js & Server-side Rendering
-- 🗃️ MySQL Integration
-
----
-
-## 💬 Ask Me About
-
-- React.js & JavaScript (ES6+)
-- MERN Stack Development
-- JWT Authentication
-- Firebase Integration
-- REST API Design
+<h3 align="center">💻 Software Engineer | Machine Learning Enthusiast</h3>
 
 ---
 
@@ -48,19 +17,19 @@
 ## 🛠️ Tech Stack
 
 ### 👨‍💻 Front-End
-`React` `Next.js` `TypeScript` `JavaScript` `HTML5` `CSS3` `Tailwind CSS` `Bootstrap`
+`React` `Redux` `Next.js` `TypeScript` `JavaScript` `HTML5` `CSS3` `Tailwind CSS` `Bootstrap`
 
 ### 🖥️ Back-End
-`Node.js` `Express.js`
+`Node.js` `Express.js` `Nest.js` `ASP.NET Core`
 
 ### 🗄️ Database
-`MongoDB` `MySQL (Learning)`
+`MongoDB` `MySQL` `PostgreSQL`
 
 ### 🔐 Authentication
-`JWT` `Firebase Auth`
+`JWT` `Firebase Auth` `0Auth`
 
 ### 🧰 Tools & Platforms
-`Git` `GitHub` `VS Code` `Firebase` `Netlify` `Render` `Heroku`
+`Git` `GitHub` `VS Code` `Firebase` `Netlify` `Postman` `Vercel`
 
 ---
 
