@@ -72,7 +72,8 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sohun-cs&theme=dark&ring=79c0ff&fire=ffac33&currStreakLabel=ffffff" alt="GitHub Streak" />
+<!--   <img src="https://streak-stats.demolab.com?user=sohun-cs&theme=dark&ring=79c0ff&fire=ffac33&currStreakLabel=ffffff" alt="GitHub Streak" /> -->
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=sohun-cs&theme=dark)](https://git.io/streak-stats)
   <br />
   <img src="https://github-readme-stats.vercel.app/api?username=sohun-cs&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
   <br />
