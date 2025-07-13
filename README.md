@@ -9,8 +9,9 @@
 
 ## 📫 Reach Me At
 
-- 📧 Email: **asaduzzamansohun5@gmail.com**
-- 🌐 LinkedIn: [Asaduzzaman Sohun](https://www.linkedin.com/in/asaduzzaman-sohun/)
+- 📧 **Email:** asaduzzamansohun5@gmail.com  
+- 💼 **LinkedIn:** [Asaduzzaman Sohun](https://www.linkedin.com/in/asaduzzaman-sohun/)  
+- 🌐 **Portfolio:** [soon to come]
 
 ---
 
@@ -26,7 +27,7 @@
 `MongoDB` `MySQL` `PostgreSQL`
 
 ### 🔐 Authentication
-`JWT` `Firebase Auth` `0Auth`
+`JWT` `Firebase Auth` `OAuth`
 
 ### 🧰 Tools & Platforms
 `Git` `GitHub` `VS Code` `Firebase` `Netlify` `Postman` `Vercel`
@@ -35,50 +36,56 @@
 
 ## 🧠 Languages & Tools
 
-<p align="left">
-  <!-- Programming Languages -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" alt="C" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" alt="C#" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" alt="Java" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" alt="TypeScript" />
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" alt="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" alt="C#" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript" />
 
-  <!-- Front-End Technologies -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" alt="React" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" alt="Redux" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" alt="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" alt="Redux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" alt="Next.js" />
 
-  <!-- Back-End Technologies -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" alt="Express" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="40" alt="ASP.NET" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" alt="Express.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40" alt="ASP.NET" />
 
-  <!-- Databases -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL" />
 
-  <!-- Mobile & Tools -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="40" alt="Android" />
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" alt="Firebase" />
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" alt="Android" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" alt="Firebase" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" />
 </p>
-
 
 ---
 
-## 📊 GitHub Analytics
+## 🏆 GitHub Profile Trophy
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sohun-cs&theme=dark&ring=79c0ff&fire=ffac33&currStreakLabel=ffffff" alt="GitHub Streak" />
-  <br />
+  <img src="https://github-profile-trophy.vercel.app/?username=sohun-cs&theme=darkhub&no-frame=true&margin-w=10&row=2&column=3" alt="trophies" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sohun-cs&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohun-cs&layout=compact&theme=radical&langs_count=10&hide=jupyter%20notebook,HTML,CSS" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sohun-cs&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
   <br />
-  <img src="https://komarev.com/ghpvc/?username=sohun-cs&style=flat-square" alt="Profile views" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohun-cs&layout=compact&theme=radical&langs_count=10&hide=jupyter%20notebook,html,css" alt="Top Languages" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sohun-cs&style=flat-square&color=blue" alt="Profile Views" />
 </p>
 
 ---
