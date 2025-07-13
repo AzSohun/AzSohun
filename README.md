@@ -11,7 +11,7 @@
 
 - 📧 **Email:** asaduzzamansohun5@gmail.com  
 - 💼 **LinkedIn:** [Asaduzzaman Sohun](https://www.linkedin.com/in/asaduzzaman-sohun/)  
-- 🌐 **Portfolio:** [soon to come]
+- 🌐 **Portfolio:** Soon to Come
 
 ---
 
