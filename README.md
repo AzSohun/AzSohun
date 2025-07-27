@@ -3,7 +3,7 @@
 </a>
 
 <h1 align="center">Hi 👋, I’m Asaduzzaman Sohun</h1>
-<h3 align="center">💻 Software Engineer | Machine Learning Enthusiast</h3>
+<h3 align="center">💻 Software Developer </h3>
 
 ---
 
