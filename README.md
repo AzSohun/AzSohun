@@ -1,6 +1,4 @@
-<a href="https://www.facebook.com/profile.php?id=61561625807710" target="_blank">
-  <img src="https://github.com/sohun-cs/sohun-cs/blob/main/README%20Cover.gif" width="100%" alt="Banner" />
-</a>
+
 
 <h1 align="center">Hi 👋, I’m Asaduzzaman Sohun</h1>
 <h3 align="center">💻 Software Developer </h3>
