@@ -70,19 +70,22 @@
 
 ---
 
-### :fire: My Stats :
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=sohun-cs&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sohun-cs&theme=radical&show&langs_count=10&hide=jupyter%20notebook,html,css"_icons=true)
-
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohun-cs&theme=radical&layout=compact" />
-   </br>
-   </br>
-      <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sohun-cs&theme=radical" />
+<div align="center"> 
+  <!-- GitHub Streak --> 
+  <a href="https://git.io/streak-stats"> 
+    <img src="https://streak-stats.demolab.com?user=sohun-cs&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /> 
+  </a> 
+  <!-- GitHub Stats --> 
+  <br /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=sohun-cs&theme=radical&show_icons=true alt="GitHub Stats" /> 
+  <!-- Top Languages --> 
+  <br /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohun-cs&theme=radical&layout=compact&langs_count=10&hide=jupyter%20notebook,html,css" " alt="Top Languages" /> 
+  <!-- Most Commit Language --> 
+  <br /> 
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sohun-cs&theme=radical" alt="Most Commit Language" /> 
+  
 </div>
-
 
 
 
