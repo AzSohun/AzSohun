@@ -66,11 +66,20 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sohun-cs&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<!-- GitHub Streak Stats -->
+<a href="https://git.io/streak-stats" target="_blank">
+  <img src="https://streak-stats.demolab.com?user=sohun-cs&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+</a>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sohun-cs&show_icons=true&theme=radical&hide_border=true)](https://github.com/sohun-cs)
+<!-- GitHub Stats -->
+<a href="https://github.com/sohun-cs" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api?username=sohun-cs&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
+</a>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sohun-cs&layout=compact&theme=radical&hide_border=true)](https://github.com/sohun-cs)
+<!-- Top Languages -->
+<a href="https://github.com/sohun-cs" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohun-cs&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+</a>
 
 </div>
 
