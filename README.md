@@ -37,7 +37,7 @@
 
 ### 👨‍💻 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,java,py,c,cpp,csharp,kotlin" />
+  <img src="https://skillicons.dev/icons?i=js,ts,java,py,c,cpp,cs,kotlin" />
 </p>
 
 ### 🌐 Front-End Technologies
@@ -62,20 +62,18 @@
 
 ---
 
-## 📈 GitHub Stats
+## 🔥 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sohun-cs&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sohun-cs&theme=tokyonight&hide_border=true" width="48%" />
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=sohun-cs&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sohun-cs&show_icons=true&theme=radical&hide_border=true)](https://github.com/sohun-cs)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sohun-cs&layout=compact&theme=radical&hide_border=true)](https://github.com/sohun-cs)
+
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohun-cs&layout=compact&theme=tokyonight&langs_count=10&hide_border=true" width="50%" />
-</div>
-
----
 
 ## 🏆 GitHub Trophies
 
