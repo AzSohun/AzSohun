@@ -1,93 +1,106 @@
-
-
 <h1 align="center">Hi 👋, I’m Asaduzzaman Sohun</h1>
-<h3 align="center">💻 Software Developer </h3>
+<h3 align="center">💻 Software Developer | MERN & TypeScript Stack | Aspiring Full-Stack Engineer</h3>
 
 ---
 
-## 📫 Reach Me At
+## 📫 Reach Me
 
-- 📧 **Email:** asaduzzamansohun5@gmail.com  
-- 💼 **LinkedIn:** [Asaduzzaman Sohun](https://www.linkedin.com/in/asaduzzaman-sohun/)  
-- 🌐 **Portfolio:** Soon to Come
+- 📧 **Email:** [asaduzzamansohun5@gmail.com](mailto:asaduzzamansohun5@gmail.com)
+- 💼 **LinkedIn:** [Asaduzzaman Sohun](https://www.linkedin.com/in/asaduzzaman-sohun/)
+- 🌐 **Portfolio:** *Coming Soon*
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Tech Stack
 
-### 👨‍💻 Front-End
-`React` `Redux` `Next.js` `TypeScript` `JavaScript` `HTML5` `CSS3` `Tailwind CSS` `Bootstrap`
+### 🖥️ Front-End
+`React` • `Redux` • `Next.js` • `Vue.js` • `TypeScript` • `JavaScript` • `HTML` • `CSS` • `Tailwind CSS` • `Bootstrap`
 
-### 🖥️ Back-End
-`Node.js` `Express.js` `Nest.js` `ASP.NET Core`
+### 🧪 Back-End
+`Node.js` • `Express.js` • `NestJS` • `ASP.NET Core` • `PHP` • `Laravel`
 
-### 🗄️ Database
-`MongoDB` `MySQL` `PostgreSQL`
+### 📱 Mobile
+`Kotlin` • `Android`
+
+### 🗃️ Databases
+`MongoDB` • `MySQL` • `PostgreSQL`
 
 ### 🔐 Authentication
-`JWT` `Firebase Auth` `OAuth`
+`JWT` • `Firebase Auth` • `OAuth`
 
 ### 🧰 Tools & Platforms
-`Git` `GitHub` `VS Code` `Firebase` `Netlify` `Postman` `Vercel`
+`Git` • `GitHub` • `VS Code` • `Firebase` • `Netlify` • `Vercel` • `Postman`
+
+---
+<!--
+## 🛠️ Languages & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,vue,react,redux,nextjs,nodejs,express,nestjs,php,laravel,dotnet,java,py,c,cpp,csharp,kotlin,android,mongodb,mysql,postgres,firebase,git,github,vscode,tailwind,bootstrap,vercel,netlify" alt="My Tech Stack" />
+</p>
+-->
+
+## 🛠️ Languages & Tools
+
+### 👨‍💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,java,py,php,c,cpp,csharp,kotlin" />
+</p>
+
+### 🌐 Front-End Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,redux,nextjs,vue,tailwind,bootstrap" />
+</p>
+
+### 🖥️ Back-End & Server-Side
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,laravel,dotnet" />
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+</p>
+
+### 🧰 Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,firebase,vercel,netlify,postman,android" />
+</p>
+
 
 ---
 
-## 🧠 Languages & Tools
+## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" alt="C" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" alt="C#" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript" />
+  <a href="https://github.com/sohun-cs">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sohun-cs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  </a>
+  <a href="https://github.com/sohun-cs">
+    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=sohun-cs&theme=tokyonight" />
+  </a>
+</p>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" alt="Redux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" alt="Next.js" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" alt="Express.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40" alt="ASP.NET" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" alt="Android" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" alt="Firebase" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohun-cs&layout=compact&theme=tokyonight&langs_count=10" width="48%" />
 </p>
 
 ---
 
-## 🏆 GitHub Profile Trophy
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sohun-cs&theme=darkhub&no-frame=true&margin-w=10&row=2&column=3" alt="trophies" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sohun-cs&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sohun-cs&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohun-cs&layout=compact&theme=radical&langs_count=10&hide=jupyter%20notebook,html,css" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sohun-cs&theme=onedark&no-frame=true&row=1&column=6" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sohun-cs&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=sohun-cs&style=flat-square&color=0e75b6" alt="Profile Views" />
 </p>
 
 ---
 
 <div align="center">
-  <strong>🚀 Thanks for visiting my profile — Let’s connect and build something amazing!</strong>
+  <strong>🚀 Thanks for stopping by — Let's connect and build something awesome together!</strong>
 </div>
