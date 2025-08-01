@@ -66,22 +66,41 @@
 
 <div align="center">
 
-<!-- GitHub Streak Stats -->
-<a href="https://git.io/streak-stats" target="_blank">
-  <img src="https://streak-stats.demolab.com?user=sohun-cs&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
-</a>
-
-<!-- GitHub Stats -->
-<a href="https://github.com/sohun-cs" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api?username=sohun-cs&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
-</a>
-
-<!-- Top Languages -->
-<a href="https://github.com/sohun-cs" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohun-cs&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
-</a>
+<table>
+  <tr>
+    <td>
+      <!-- GitHub Streak Stats (Fixed) -->
+      <a href="https://github.com/DenverCoder1/github-readme-streak-stats" target="_blank">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=sohun-cs&theme=merko&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+      </a>
+    </td>
+    <td>
+      <!-- GitHub Stats -->
+      <a href="https://github.com/sohun-cs" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api?username=sohun-cs&show_icons=true&theme=merko&hide_border=false" alt="GitHub Stats"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <!-- Top Languages -->
+      <a href="https://github.com/sohun-cs" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohun-cs&theme=merko&layout=compact&hide_border=false&hide=html,css&langs_count=10" alt="Top Languages"/>
+      </a>
+    </td>
+    <td align="center">
+      <!-- Most Commited Languages -->
+      <a href="https://github.com/sohun-cs" target="_blank">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sohun-cs&theme=merko&hide_border=false" alt="Top Committed Languages"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
+
+
+
 
 
 ## 🏆 GitHub Trophies
