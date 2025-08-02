@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I’m Asaduzzaman Sohun</h1>
+<h4 align="center">from Bangladesh</h4>
 <h3 align="center">💻 Software Developer | MERN & TypeScript Stack | Aspiring Full-Stack Engineer</h3>
 
 ---
@@ -65,19 +66,18 @@
 ## 🔥 GitHub Stats
 
 <div align="center">
-
 <table>
   <tr>
     <td>
       <!-- GitHub Streak Stats (Fixed) -->
       <a href="https://github.com/DenverCoder1/github-readme-streak-stats" target="_blank">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=sohun-cs&theme=merko&date_format=M%20j%5B%2C%20Y%5D&cache_seconds=60" alt="GitHub Streak"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=sohun-cs&theme=merko&date_format=M%20j%5B%2C%20Y%5D&cache_seconds=40" alt="GitHub Streak"/>
       </a>
     </td>
     <td>
       <!-- GitHub Stats -->
       <a href="https://github.com/sohun-cs" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api?username=sohun-cs&show_icons=true&theme=merko&hide_border&cache_seconds=60=false" alt="GitHub Stats"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=sohun-cs&show_icons=true&theme=merko&hide_border=false&cache_seconds=40" alt="GitHub Stats"/>
       </a>
     </td>
   </tr>
@@ -85,13 +85,13 @@
     <td align="center">
       <!-- Top Languages -->
       <a href="https://github.com/sohun-cs" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohun-cs&theme=merko&layout=compact&hide_border=false&hide=html,css&langs_count=10&cache_seconds=60" alt="Top Languages"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohun-cs&theme=merko&layout=compact&hide_border=false&hide=html,css&langs_count=10&cache_seconds=40" alt="Top Languages"/>
       </a>
     </td>
     <td align="center">
       <!-- Most Commited Languages -->
       <a href="https://github.com/sohun-cs" target="_blank">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sohun-cs&theme=merko&hide_border=false&cache_seconds=60" alt="Top Committed Languages"/>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sohun-cs&theme=merko&hide_border=false&cache_seconds=40" alt="Top Committed Languages"/>
       </a>
     </td>
   </tr>
