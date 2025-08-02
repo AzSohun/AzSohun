@@ -96,11 +96,7 @@
     </td>
   </tr>
 </table>
-
 </div>
-
-
-
 
 
 ## 🏆 GitHub Trophies
