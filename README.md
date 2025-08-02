@@ -14,7 +14,7 @@
 ## 🚀 Tech Stack
 
 ### 🖥️ Front-End
-`React` • `Redux` • `Next.js` • `TypeScript` • `JavaScript` • `HTML` • `CSS` • `Tailwind CSS` • `Bootstrap`
+`React` • `Redux` • `Next.js` • `Vue.js` • `TypeScript` • `JavaScript` • `HTML` • `CSS` • `Tailwind CSS` • `Bootstrap`
 
 ### 🧪 Back-End
 `Node.js` • `Express.js` • `ASP.NET Core`
@@ -42,7 +42,7 @@
 
 ### 🌐 Front-End Technologies
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,redux,nextjs,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,redux,nextjs,vuejs,tailwind,bootstrap" />
 </p>
 
 ### 🖥️ Back-End & Server-Side
