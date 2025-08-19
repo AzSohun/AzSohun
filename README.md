@@ -85,7 +85,7 @@
     <td align="center">
       <!-- Top Languages -->
       <a href="https://github.com/sohun-cs" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohun-cs&theme=merko&layout=compact&hide_border=false&hide=html,css&langs_count=10&cache_seconds=40" alt="Top Languages"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohun-cs&theme=merko&layout=compact&hide_border=false&hide=html,css,jupyter%20notebook&langs_count=10&cache_seconds=40" alt="Top Languages"/>
       </a>
     </td>
     <td align="center">
