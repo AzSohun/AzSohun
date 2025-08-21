@@ -98,7 +98,6 @@
 </table>
 </div>
 
-
 ## 🏆 GitHub Trophies
 
 <p align="center">
