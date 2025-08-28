@@ -98,18 +98,6 @@
 </table>
 </div>
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sohun-cs&theme=onedark&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sohun-cs&style=flat-square&color=0e75b6" alt="Profile Views" />
-</p>
-
 ---
 
 <div align="center">
