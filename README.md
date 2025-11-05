@@ -1,4 +1,4 @@
-![Snake animation](https://raw.githubusercontent.com/sohun-cs/sohun-cs/output/dist/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/sohun-cs/sohun-cs/output/github-contribution-grid-snake.svg)
 
 
 <h1 align="center">Hi 👋, I’m Asaduzzaman Sohun</h1>
