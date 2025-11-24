@@ -1,6 +1,3 @@
-![Snake animation](https://raw.githubusercontent.com/sohun-cs/sohun-cs/output/github-contribution-grid-snake.svg)
-
-
 <h1 align="center">Hi 👋, I’m Asaduzzaman Sohun</h1>
 <h4 align="center">from Bangladesh</h4>
 <h3 align="center">💻 Software Developer | MERN & TypeScript Stack | Aspiring Full-Stack Engineer</h3>
