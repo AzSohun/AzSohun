@@ -38,7 +38,7 @@
 
 ### 👨‍💻 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,java,py,c,cpp,cs,kotlin" />
+  <img src="https://skillicons.dev/icons?i=js,ts,java,py,c,cpp,cs" />
 </p>
 
 ### 🌐 Front-End Technologies
@@ -48,7 +48,7 @@
 
 ### 🖥️ Back-End & Server-Side
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
 ### 🗄️ Databases
@@ -76,7 +76,7 @@
     </td>
     <td>
       <!-- GitHub Stats -->
-      <a href="https://github.com/sohun-cs" target="_blank">
+      <a href="https://github.com/AzSohun" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api?username=sohun-cs&show_icons=true&theme=merko&hide_border=false&cache_seconds=40" alt="GitHub Stats"/>
       </a>
     </td>
@@ -84,13 +84,13 @@
   <tr>
     <td align="center">
       <!-- Top Languages -->
-      <a href="https://github.com/sohun-cs" target="_blank">
+      <a href="https://github.com/AzSohun" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohun-cs&theme=merko&layout=compact&hide_border=false&hide=html,css,jupyter%20notebook&langs_count=10&cache_seconds=40" alt="Top Languages"/>
       </a>
     </td>
     <td align="center">
       <!-- Most Commited Languages -->
-      <a href="https://github.com/sohun-cs" target="_blank">
+      <a href="https://github.com/AzSohun" target="_blank">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sohun-cs&theme=merko&hide_border=false&cache_seconds=40" alt="Top Committed Languages"/>
       </a>
     </td>
