@@ -69,29 +69,25 @@
 <table>
   <tr>
     <td>
-      <!-- GitHub Streak Stats (Fixed) -->
       <a href="https://github.com/DenverCoder1/github-readme-streak-stats" target="_blank">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=AzSohun&theme=merko&date_format=M%20j%5B%2C%20Y%5D&cache_seconds=40" alt="GitHub Streak"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=AzSohun&theme=merko&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
       </a>
     </td>
     <td>
-      <!-- GitHub Stats -->
       <a href="https://github.com/AzSohun" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api?username=AzSohun&show_icons=true&theme=merko&hide_border=false&cache_seconds=40" alt="GitHub Stats"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=AzSohun&show_icons=true&theme=merko" alt="GitHub Stats"/>
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <!-- Top Languages -->
       <a href="https://github.com/AzSohun" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzSohun&theme=merko&layout=compact&hide_border=false&hide=html,css,jupyter%20notebook&langs_count=10&cache_seconds=40" alt="Top Languages"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzSohun&theme=merko&layout=compact&hide=html,css,jupyter%20notebook" alt="Top Languages"/>
       </a>
     </td>
     <td align="center">
-      <!-- Most Commited Languages -->
       <a href="https://github.com/AzSohun" target="_blank">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AzSohun&theme=merko&hide_border=false&cache_seconds=40" alt="Top Committed Languages"/>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AzSohun&theme=merko" alt="Top Committed Languages"/>
       </a>
     </td>
   </tr>
