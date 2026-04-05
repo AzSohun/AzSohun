@@ -75,14 +75,14 @@
     </td>
     <td>
       <a href="https://github.com/AzSohun" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api?username=AzSohun&show_icons=true&theme=merko" alt="GitHub Stats"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=AzSohun&show_icons=true" alt="GitHub Stats"/>
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
       <a href="https://github.com/AzSohun" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzSohun&theme=merko&layout=compact&hide=html,css,jupyter%20notebook" alt="Top Languages"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzSohun&layout=compact&hide=html,css,jupyter%20notebook" alt="Top Languages"/>
       </a>
     </td>
     <td align="center">
