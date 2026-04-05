@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I’m Asaduzzaman Sohun</h1>
 <h4 align="center">from Bangladesh</h4>
-<h3 align="center">💻 Software Developer | MERN & TypeScript Stack | Aspiring Full-Stack Engineer</h3>
+<h3 align="center">💻 Aspiring Full-Stack Developer</h3>
 
 ---
 
