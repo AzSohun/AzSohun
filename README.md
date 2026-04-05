@@ -18,7 +18,7 @@
 `React` • `Redux` • `Next.js` • `Vue.js` • `TypeScript` • `JavaScript` • `HTML` • `CSS` • `Tailwind CSS` • `Bootstrap`
 
 ### 🧪 Back-End
-`Node.js` • `Express.js` • `ASP.NET Core`
+`Node.js` • `Express.js`
 
 ### 📱 Mobile
 `Kotlin` • `Android`
