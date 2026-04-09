@@ -21,7 +21,7 @@
 
 ### 🌐 Front-End Technologies
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,redux,nextjs,vuejs,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=react,redux,nextjs,tailwind,bootstrap" />
 </p>
 
 ### 🖥️ Back-End & Server-Side
