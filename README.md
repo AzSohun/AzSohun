@@ -34,11 +34,11 @@ Building:
   - Scalable ASP.NET APIs
   - Distributed Backend Systems
   - Real-time Systems
-  - Machine Learning Models
+  
 
 Learning:
   - Microservices
   - System Design
-  - Kubernetes
-  - Event Driven Architecture
+  - Machine Learning Models
   - Deep Learning
+
