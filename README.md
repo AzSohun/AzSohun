@@ -26,8 +26,6 @@ ASP.NET Core • Angular • Distributed Systems • Machine Learning
 
 ---
 
-# 🧠 Current Focus
-
 ```yaml
 Building:
   - Enterprise Web Applications
