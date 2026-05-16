@@ -7,6 +7,8 @@
 
 ASP.NET Core • Android • Distributed Systems • Machine Learning -->
 
+### Hi There 👋
+
 </div>
 
 <div align="center">
