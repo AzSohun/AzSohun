@@ -23,7 +23,7 @@ ASP.NET Core • Android • Distributed Systems • Machine Learning -->
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AzSohun&theme=react-dark&hide_border=true&bg_color=0D1117"/>
 
-<img width="60%" src="https://streak-stats.demolab.com?user=AzSohun&theme=tokyonight&hide_border=true&background=0D1117"/>
+<!-- <img width="60%" src="https://streak-stats.demolab.com?user=AzSohun&theme=tokyonight&hide_border=true&background=0D1117"/> -->
 
 </div>
 
