@@ -6,7 +6,7 @@
 ### Backend & Enterprise Software Engineering
 
 ASP.NET Core • Android • Distributed Systems • Machine Learning -->
-
+<!-- 
 ### Hi There 👋
 
 </div>
@@ -21,25 +21,12 @@ ASP.NET Core • Android • Distributed Systems • Machine Learning -->
 
 <div align="center">
 
-<!-- <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AzSohun&theme=react-dark&hide_border=true&bg_color=0D1117"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AzSohun&theme=react-dark&hide_border=true&bg_color=0D1117"/>
 
-<img width="60%" src="https://streak-stats.demolab.com?user=AzSohun&theme=tokyonight&hide_border=true&background=0D1117"/> -->
+<img width="60%" src="https://streak-stats.demolab.com?user=AzSohun&theme=tokyonight&hide_border=true&background=0D1117"/> 
 
 </div>
 
 ---
 
-```yaml
-Building:
-  - Enterprise Web Applications
-  - Scalable ASP.NET APIs
-  - Distributed Backend Systems
-  - Real-time Systems
-  
-
-Learning:
-  - Microservices
-  - System Design
-  - Machine Learning Models
-  - Deep Learning
-
+-->
