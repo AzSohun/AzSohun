@@ -1,11 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Asaduzzaman%20Sohun&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Asaduzzaman%20Sohun&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/> -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Hi%20There%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
 <!--
 ### Backend & Enterprise Software Engineering
 
 ASP.NET Core • Android • Distributed Systems • Machine Learning -->
+
+<!--
 ### Hi There 👋
 
 </div>
@@ -27,4 +31,4 @@ ASP.NET Core • Android • Distributed Systems • Machine Learning -->
 </div>
 
 ---
-
+-->
