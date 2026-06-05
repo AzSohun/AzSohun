@@ -9,7 +9,6 @@
 
 ASP.NET Core • Android • Distributed Systems • Machine Learning -->
 
-<!--
 ### Hi There 👋
 
 </div>
@@ -31,4 +30,4 @@ ASP.NET Core • Android • Distributed Systems • Machine Learning -->
 </div>
 
 ---
--->
+
