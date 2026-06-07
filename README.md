@@ -4,7 +4,7 @@
 
 ### Backend & Enterprise Software Engineering
 
-ASP.NET Core • Backend • Distributed Systems • Machine Learning
+ASP.NET Core • System Design • Distributed Systems • Artificial Intelligent
 
 </div>
 
