@@ -25,18 +25,3 @@ ASP.NET Core • System Design • Distributed Systems • Artificial Intelligen
 </div>
 
 ---
-
-```yaml
-Building:
-  - Enterprise Web Applications
-  - Scalable ASP.NET APIs
-  - Distributed Backend Systems
-  - Real-time Systems
-  - Machine Learning Models
-
-Learning:
-  - Microservices
-  - System Design
-  - Kubernetes
-  - Event Driven Architecture
-  - Deep Learning
