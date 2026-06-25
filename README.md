@@ -21,8 +21,6 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AzSohun&theme=tokyonight) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AzSohun&theme=tokyonight)
 
-<img width="60%" src="https://streak-stats.demolab.com?user=AzSohun&theme=tokyonight&hide_border=true&background=0D1117"/>
-
 </div>
 
 ---
